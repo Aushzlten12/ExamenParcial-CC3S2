@@ -1,0 +1,6 @@
+[submodule "ParcialParte3"]
+	path = ParcialParte3
+	url = https://github.com/Aushzlten12/ParcialParte3
+[submodule "ParcialParte2"]
+	path = ParcialParte2
+	url = https://github.com/Aushzlten12/ParcialParte2
